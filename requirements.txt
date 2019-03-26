@@ -1,0 +1,2 @@
+sceptre>=2
+yamllint>=1.15.0
